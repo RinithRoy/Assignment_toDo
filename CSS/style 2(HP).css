@@ -1,0 +1,11 @@
+#todo 
+{
+  position: absolute;
+  left: 100px;
+  right: 100px;
+}
+@keyframes mymove 
+{
+  50% {opacity: 0;}
+}
+.navbar-nav>li>a:hover {background-color: black;}
